@@ -1,0 +1,11 @@
+
+Kullanılan Model Linkleri 
+
+- Fine Tune Edilmiş Model : https://huggingface.co/gamzeyy/mistral-7b-dolly
+
+- Mistral 7b : https://huggingface.co/mistralai/Mistral-7B-v0.1
+
+- Kullanılan Veriseti : https://huggingface.co/datasets/databricks/databricks-dolly-15k
+
+
+
