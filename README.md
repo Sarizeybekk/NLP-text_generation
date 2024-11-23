@@ -55,14 +55,15 @@ This project explores **Natural Language Processing (NLP)** and **text generatio
 ## 🖥️ Screenshots
 
 ### Tokenization and Model Loading
-![Tokenization and Model Loading](./images/tokenization.png)
+![alt text](image-2.png)
 
-### Text Generation Prompt
-![Text Generation Prompt](./images/text_prompt.png)
+
+
 
 ### Model Output Example
-![Model Output Example](./images/model_output.png)
-
+!![alt text](image.png)
+![alt text](image-1.png)
+![alt text](image-3.png)
 ---
 
 ## 🔧 Technologies Used
